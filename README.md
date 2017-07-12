@@ -1,7 +1,6 @@
 # super-rentals
 
-This README outlines the details of collaborating on this Ember application.
-A short introduction of this app could easily go here.
+Super-rentals app is an Ember tutorial. Deployed at naive-jellyfish.surge.sh
 
 ## Prerequisites
 
