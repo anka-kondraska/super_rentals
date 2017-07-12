@@ -1,6 +1,6 @@
 # super-rentals
 
-Super-rentals app is an Ember tutorial. Deployed at naive-jellyfish.surge.sh
+Super-rentals app is an Ember tutorial. Deployed at https://www.naive-jellyfish.surge.sh
 
 ## Prerequisites
 
